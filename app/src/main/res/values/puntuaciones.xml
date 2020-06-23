@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gases_bien">100</integer>
+    <integer name="gases_normal">85</integer>
+    <integer name="gases_mal">30</integer>
+    <integer name="flota">75</integer>
+    <integer name="no_flota">100</integer>
+    <integer name="duele_poco">100</integer>
+    <integer name="duele_normal">85</integer>
+    <integer name="duele_mucho">30</integer>
+    <integer name="marron">100</integer>
+    <integer name="verde_b6_b7">40</integer>
+    <integer name="verde_gases_mal">50</integer>
+    <integer name="verde">70</integer>
+    <integer name="amarillo">15</integer>
+    <integer name="rojo_duele">15</integer>
+    <integer name="rojo_duele_b1_b2">5</integer>
+    <integer name="rojo">60</integer>
+    <integer name="negro">15</integer>
+    <integer name="blanco">5</integer>
+</resources>
